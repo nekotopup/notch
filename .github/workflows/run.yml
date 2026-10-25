@@ -1,4 +1,4 @@
-name: Release Installer
+name: Installer
 
 'on':
   workflow_run:
